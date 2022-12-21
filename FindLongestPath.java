@@ -17,7 +17,6 @@ public class FindLongestPath {
 				
 			}
 		}
-		
 		public static void main(String[] args ) {
 			
 			Node root = new Node(100);
